@@ -675,7 +675,7 @@
     }
   },
   "siteManager": {
-    "message": "現場經理",
+    "message": "網站管理器",
     "description": "Label for the site manager button or section."
   },
   "settingsLocked": {
